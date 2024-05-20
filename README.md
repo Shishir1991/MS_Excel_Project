@@ -20,27 +20,15 @@ The CRISP-DM process consists of six main phases.
 ![image](https://github.com/shishir1991/MS_Excel_Project/assets/157515610/4d777d42-9582-4230-b22a-65a39b160749)
 
 
-1. Business Understanding:
-   
- a. Goals and objectives b. Project plan c. Business success criteria
+1. Business Understanding: a. Goals and objectives b. Project plan c. Business success criteria
 
-2. Data Understanding:
-              
- a. Data collection sources b. Data exploration c. Initial data description
+2. Data Understanding: a. Data collection sources b. Data exploration c. Initial data description
 
-3.Data Preparation:
-
- a. Data cleaning b. Data transformation c. Data pre-processing
+3. Data Preparation: a. Data cleaning b. Data transformation c. Data pre-processing
  
-4. Modeling:
-   
- a. Selection of modeling techniques b. Building models c. Assessing model quality
+4. Modeling: a. Selection of modeling techniques b. Building models c. Assessing model quality
 
-5. Evaluation:
-   
- a. Model assessment b. Business success criteria evaluation c. Review of process
+5. Evaluation: a. Model assessment b. Business success criteria evaluation c. Review of process
 
-6. Deployment:
-   
- a. Deployment plan b. Final report c. Project review
+6. Deployment: a. Deployment plan b. Final report c. Project review
 
