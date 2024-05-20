@@ -1,8 +1,9 @@
 # Nile-MS_Excel_Project
 
-#📊 Project: Analyses of Nile's Customer Service Data using Microsoft Excel
+📊 Project: Analyses of Nile's Customer Service Data using Microsoft Excel
 
-📝 Description: iVision is a well-known analytics firm. iVision does analytics on the data shared by their clients. Recently, iVision collaborated with Nile, an E-commerce company. Nile intends to improve their customer service, but before doing so, Nile wants to get some insights on their customer service request data. To help Nile make better business decisions and improve their services, iVision is engaged to provide Nile access to the analytics dashboard and report. Nile has shared its customer service data with iVision.
+📝 Description: 
+iVision is a well-known analytics firm. iVision does analytics on the data shared by their clients. Recently, iVision collaborated with Nile, an E-commerce company. Nile intends to improve their customer service, but before doing so, Nile wants to get some insights on their customer service request data. To help Nile make better business decisions and improve their services, iVision is engaged to provide Nile access to the analytics dashboard and report. Nile has shared its customer service data with iVision.
 As an employee of iVision, Our responsibility is to create the analytics report.
 
 🔄 CRISP-DM Methodology:
@@ -13,3 +14,35 @@ CRISP-DM stands for Cross-Industry Standard Process for Data Mining. It's a wide
 CRISP-DM is iterative, meaning it’s common for the process to cycle back to previous stages as new insights are gained or as requirements change. The flexibility of this methodology allows data scientists and analysts to adapt and refine their approach based on the ongoing analysis and evolving business needs.
 
 The CRISP-DM process consists of six main phases.
+
+1. Business Understanding:
+ a. Goals and objectives
+ b. Project plan
+ c. Business success criteria
+
+2. Data Understanding:                                                                                                        CRISP-DM Chart Structure              
+ a. Data collection sources
+ b. Data exploration                                                                                           ![image](https://github.com/shishir1991/MS_Excel_Project/assets/157515610/3154d943-1ac4-4f38-b5e5-8f00ddbfbea9)
+
+ c. Initial data description
+
+3.Data Preparation:
+ a. Data cleaning
+ b. Data transformation
+ c. Data pre-processing
+ 
+4. Modeling:
+ a. Selection of modeling techniques
+ b. Building models
+ c. Assessing model quality
+
+5. Evaluation:
+ a. Model assessment
+ b. Business success criteria evaluation
+ c. Review of process
+
+6. Deployment:
+ a. Deployment plan
+ b. Final report
+ c. Project review
+
