@@ -59,8 +59,6 @@ The CRISP-DM process consists of six main phases.
 2. Data Understanding: In this phase, data collection, exploration, and initial data quality assessment take place. It involves understanding the available data sources, their quality, and their potential to meet the project objectives.
    Here we have the original data file which will show what is the task which we have to perform and how we have to proceed with it.
 
-![image](https://github.com/shishir1991/MS_Excel_Project/assets/157515610/5d597226-edb6-4a4e-beb4-f74fcd2b9bba)
-
 
 
 
