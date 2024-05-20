@@ -46,15 +46,21 @@ The CRISP-DM process consists of six main phases.
 
    Project Goals:
    
-     • Customer Sentiment Analysis: Perform sentiment analysis on customer interactions. Identify positive, negative, and neutral sentiments expressed by customers to understand overall satisfaction levels. 
+     A Customer Sentiment Analysis: Perform sentiment analysis on customer interactions. Identify positive, negative, and neutral sentiments expressed by customers to understand overall satisfaction levels. 
   
-     • Root Cause Analysis: Investigate common customer complaints. Pinpoint recurring problems to address them proactively and prevent future escalations. 
+     B Root Cause Analysis: Investigate common customer complaints. Pinpoint recurring problems to address them proactively and prevent future escalations. 
   
-     • Service Response Time Analysis: Analyse response times for customer queries and support requests to assess the efficiency of the customer service team.
+     C Service Response Time Analysis: Analyse response times for customer queries and support requests to assess the efficiency of the customer service team.
   
-     • Customer Segmentation: Segment customers based on their demographics, behaviour, and preferences. Understand different customer segments' needs and pain points to tailor services and communications accordingly. 
+     D Customer Segmentation: Segment customers based on their demographics, behaviour, and preferences. Understand different customer segments' needs and pain points to tailor services and communications accordingly. 
   
-     • Trends and Patterns Identification: Identify patterns and trends in customer service data to uncover opportunities for process improvements and innovative service offerings.
+     E Trends and Patterns Identification: Identify patterns and trends in customer service data to uncover opportunities for process improvements and innovative service offerings.
+
+2. Data Understanding: In this phase, data collection, exploration, and initial data quality assessment take place. It involves understanding the available data sources, their quality, and their potential to meet the project objectives.
+   Here we have the original data file which will show what is the task which we have to perform and how we have to proceed with it.
+
+![image](https://github.com/shishir1991/MS_Excel_Project/assets/157515610/5d597226-edb6-4a4e-beb4-f74fcd2b9bba)
+
 
 
 
