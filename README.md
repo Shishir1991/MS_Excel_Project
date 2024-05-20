@@ -15,15 +15,17 @@ CRISP-DM is iterative, meaning it’s common for the process to cycle back to pr
 
 The CRISP-DM process consists of six main phases.
 
+![image](https://github.com/shishir1991/MS_Excel_Project/assets/157515610/4d777d42-9582-4230-b22a-65a39b160749)
+
+
 1. Business Understanding:
  a. Goals and objectives
  b. Project plan
  c. Business success criteria
 
-2. Data Understanding:                                                                                                        CRISP-DM Chart Structure              
+2. Data Understanding:              
  a. Data collection sources
- b. Data exploration                                                                                           ![image](https://github.com/shishir1991/MS_Excel_Project/assets/157515610/3154d943-1ac4-4f38-b5e5-8f00ddbfbea9)
-
+ b. Data exploration
  c. Initial data description
 
 3.Data Preparation:
