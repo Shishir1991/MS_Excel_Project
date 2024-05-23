@@ -1,4 +1,4 @@
-![image](https://github.com/shishir1991/Nile-MS_Excel_Project/assets/157515610/c205e1d1-1347-447b-b222-7c24ecc4199a)# Nile-MS_Excel_Project
+# Nile-MS_Excel_Project
 
 📊 Project: Analyses of Nile's Customer Service Data using Microsoft Excel
 
