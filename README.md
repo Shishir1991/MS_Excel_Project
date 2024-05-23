@@ -70,7 +70,9 @@ The CRISP-DM process consists of six main phases.
 
    For this project we have use different Pivot tables, charts and slicers according to the requirement and analysis.
     
-    We have in total of five goals that we have to achieve based on the given data :
+   We have in total of five goals that we have to achieve based on the given data :
+
+📊 Results:
 
    A. Customer Sentiment Analysis :
 
@@ -102,6 +104,16 @@ The CRISP-DM process consists of six main phases.
    
    c. By the analysation from Bar chart we learn that the Service outage queries are resolved over three Channels but not on call-centre. As the queries over this reason are minimum we can assume that it is getting resolved over the 
       respective channels.
+
+5. Evaluation:
+  
+   Once models are created, they need to be evaluated to determine their effectiveness in addressing the business objectives. This phase involves assessing model performance, considering different metrics, and selecting
+   the best model.
+
+8. Deployment:
+  
+   In this final phase, the insights and knowledge derived from the data are deployed into the business. This could involve implementing the model into a production environment, creating a report, or taking actions
+   based on the results.
 
 
 
