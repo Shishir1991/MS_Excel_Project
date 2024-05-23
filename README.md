@@ -1,4 +1,4 @@
-# Nile-MS_Excel_Project
+![image](https://github.com/shishir1991/Nile-MS_Excel_Project/assets/157515610/c205e1d1-1347-447b-b222-7c24ecc4199a)# Nile-MS_Excel_Project
 
 📊 Project: Analyses of Nile's Customer Service Data using Microsoft Excel
 
@@ -66,8 +66,22 @@ The CRISP-DM process consists of six main phases.
 
    [Download Cleaned File](https://github.com/shishir1991/MS_Excel_Project/blob/main/MS%20Excel%20Graded%20Project/Call_Center_data_Cleaned.xlsx)
 
+4. Modeling: In this phase, various modeling techniques are selected and applied to the prepared dataset. Different algorithms and methodologies are used to build and assess models based on the business problem.
+
+   For this project we have use different Pivot tables, charts and slicers according to the requirement and analysis.
+    
+    We have in total of five goals that we have to achieve based on the given data :
+
+   A. Customer Sentiment Analysis :
+
+    Here we have performed sentiment analysis on customer interactions through Pie chart and Identified positive, negative, and neutral sentiments expressed by customers to understand overall satisfaction 
+    levels.
+
+   ![image](https://github.com/shishir1991/Nile-MS_Excel_Project/assets/157515610/1ce7410a-1979-4bbc-89db-eaa589b60278)
+
 
    
+
 
 
 
