@@ -76,8 +76,7 @@ The CRISP-DM process consists of six main phases.
 
    A. Customer Sentiment Analysis :
 
-    Here we have performed sentiment analysis on customer interactions through Pie chart and Identified positive, negative, and neutral sentiments expressed by customers to understand overall satisfaction 
-    levels.
+   Here we have performed sentiment analysis on customer interactions through Pie chart and Identified positive, negative, and neutral sentiments expressed by customers to understand overall satisfaction levels.
 
    ![image](https://github.com/shishir1991/Nile-MS_Excel_Project/assets/157515610/1ce7410a-1979-4bbc-89db-eaa589b60278)
 
