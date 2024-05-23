@@ -79,6 +79,39 @@ The CRISP-DM process consists of six main phases.
 
    ![image](https://github.com/shishir1991/Nile-MS_Excel_Project/assets/157515610/1ce7410a-1979-4bbc-89db-eaa589b60278)
 
+   B. Root Cause Analysis: We have investigated common customer complaints. Pinpoint recurring problems to address them proactively and prevent future escalations.
+
+   ![image](https://github.com/shishir1991/Nile-MS_Excel_Project/assets/157515610/821de83d-ebd7-4d74-b367-2c6aa1dd7f99)
+
+   C. Service Response Time Analysis: Analyse response times for customer queries and support requests to assess the efficiency of the customer service team.
+
+   ![image](https://github.com/shishir1991/Nile-MS_Excel_Project/assets/157515610/cf39da37-5356-48f2-ab43-654a9148156d)
+
+   D. Customer Segmentation: Segment customers based on their demographics, behaviour, and preferences. Understand different customer segments' needs and pain points to tailor services and communications accordingly.
+
+   ![image](https://github.com/shishir1991/Nile-MS_Excel_Project/assets/157515610/6140cae1-870b-40d3-800b-ec6b7aeb7662)
+
+   E. Trends and Patterns Identification: Identify patterns and trends in customer service data to uncover opportunities for process improvements and innovative service offerings.
+
+   ![image](https://github.com/shishir1991/Nile-MS_Excel_Project/assets/157515610/cfea79b8-6ccc-41b5-a24d-4f9965971718)
+
+   a. By analysing the bar chart it is clear that most of the communication is related to billing question through all the four channel modes. So the process of Billing should be reviewed and checked for any improvement or rectification.
+   
+   b. Whereas on payment only one channel has been considered i.e. call centre which makes it limited and busy for communicating. By improving mail and web channel for queries and rapid solution, the traffic on call-centre can be 
+      diverted over these other channels which can result a decrease in call-centre traffic.
+   
+   c. By the analysation from Bar chart we learn that the Service outage queries are resolved over three Channels but not on call-centre. As the queries over this reason are minimum we can assume that it is getting resolved over the 
+      respective channels.
+
+
+
+
+
+
+
+
+
+
 
    
 
