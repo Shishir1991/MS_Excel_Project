@@ -175,7 +175,7 @@ The analysis aims to leverage data-driven approaches to optimize customer servic
  - Review the presentation in the artifacts folder for a summary of the project findings and recommendations.
 
 ## License
-This project is licensed under the MIT [License](#license). See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](#license) file for more details.
 
 ## Contact
 For any further questions or contributions, please contact us:
