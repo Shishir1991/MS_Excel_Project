@@ -21,8 +21,6 @@
   - [6. Deployment](#6-deployment)
 - [Expected Deliverables](#expected-deliverables)
 - [Artifacts](#artifacts)
-- [License](#license)
-- [Contact](#contact)
 - [How to Use](#how-to-use)
 - [License](#license)
 - [Contact](#contact)
@@ -172,12 +170,12 @@ The analysis aims to leverage data-driven approaches to optimize customer servic
 ## How to Use
  - Clone the repository to your local machine.
    
-git clone https://github.com/shishir1991/Nile-MS_Excel_Project.git
-- Open the MS Excel file in the artifacts folder to view the detailed analysis.
-- Review the presentation in the artifacts folder for a summary of the project findings and recommendations.
+   git clone https://github.com/shishir1991/Nile-MS_Excel_Project.git
+ - Open the MS Excel file in the artifacts folder to view the detailed analysis.
+ - Review the presentation in the artifacts folder for a summary of the project findings and recommendations.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT [License](#license). See the LICENSE file for more details.
 
 ## Contact
 For any further questions or contributions, please contact us:
