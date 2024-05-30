@@ -23,6 +23,9 @@
 - [Artifacts](#artifacts)
 - [License](#license)
 - [Contact](#contact)
+- [How to Use](#how-to-use)
+- [License](#license)
+- [Contact](#contact)
 
 ## 📝 Project Overview
 iVision is a well-known analytics firm that recently collaborated with Nile, an E-commerce company, to improve their customer service. Nile wants insights on their customer service request data to make better business decisions and enhance their services. iVision is responsible for creating an analytics report based on this data.
@@ -151,8 +154,12 @@ The analysis aims to leverage data-driven approaches to optimize customer servic
     the best model.
 
 ### Deployment
-    In this final phase, the insights and knowledge derived from the data are deployed into the business. This could involve implementing the model into a production environment, creating a report, or taking actions
-    based on the results.
+    The deployment phase involves making the insights and tools accessible to the stakeholders at Nile. This includes:
+
+    - Dashboard Implementation: Setting up a real-time monitoring dashboard in Microsoft Excel, providing easy access to key metrics and insights.
+    - Training: Conducting training sessions for Nile’s staff to effectively use the dashboard and understand the insights.
+    - Documentation: Providing comprehensive documentation on the analysis process, dashboard usage, and interpretation of the results.
+    - Feedback Loop: Establishing a feedback mechanism to continuously improve the analysis based on user inputs and evolving business needs.
 
 ## Expected Deliverables
 - Data-driven insights and actionable recommendations based on sentiment analysis and root cause identification.
@@ -161,6 +168,24 @@ The analysis aims to leverage data-driven approaches to optimize customer servic
 ## Artifacts to be Generated
 - MS Excel File (.xlsx)
 - Presentation (Slides) summarizing the project
+
+## How to Use
+ - Clone the repository to your local machine.
+   
+git clone https://github.com/shishir1991/Nile-MS_Excel_Project.git
+- Open the MS Excel file in the artifacts folder to view the detailed analysis.
+- Review the presentation in the artifacts folder for a summary of the project findings and recommendations.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For any further questions or contributions, please contact us:
+
+- Project Lead: Shishir KHerod
+- Email: shishirdma@gmail.com
+
+Thank you for visiting our project repository!
 
 
 
