@@ -1,4 +1,4 @@
-# Nile-MS_Excel_Project
+# Customer Service Analytics Project for Nile
 
 📊 Project: Analyses of Nile's Customer Service Data using Microsoft Excel
 
